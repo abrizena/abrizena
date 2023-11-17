@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Almost graduated in Computer Engineering
 
 
-![https://github.com/abrizena](https://raw.githubusercontent.com/abrizena/abrizena/master/mouredev_github_profile.png)
+![https://github.com/abrizena](https://raw.githubusercontent.com/abrizena/abrizena/main/abrizena_github_profile.png)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
 
 Soy estudiante del Grado en Ingeniería Informática, cursando las 2 últimas asignaturas.
