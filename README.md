@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 ### Almost graduated in Computer Engineering
 
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/abrizena/abrizena/master/mouredev_github_profile.png)
+![https://github.com/abrizena](https://raw.githubusercontent.com/abrizena/abrizena/master/mouredev_github_profile.png)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
 
-Soy ingeniero de software profesional desde hace más de doce años.
+Soy estudiante del Grado en Ingeniería Informática, cursando las 2 últimas asignaturas.
 
-En 2016 dejé mi trabajo como biólogo y comencé a reinventarme en el mundo de la programación. Mi sueño es crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a cursar Grado en Ingeniería Informática (UDIMA) y especializarme en tecnologias para el desarrollo de software (aplicaciones web, BBDD, Java, Angular...)
+En 2016 dejé mi trabajo como biólogo y comencé a reinventarme en el mundo de la programación. Mi sueño es crecer como profesional, dentro de la industria del desarrollo de software.
+Desde entonces, me he dedicado a cursar Grado en Ingeniería Informática (UDIMA) y especializarme en tecnologias para el desarrollo de software (aplicaciones web, BBDD, Java, Angular...)
 
 ## Tecnologías:
 
